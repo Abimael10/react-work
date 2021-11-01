@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac2ea933.chunk.css",
+    "main.js": "/static/js/main.4c8af507.chunk.js",
+    "main.js.map": "/static/js/main.4c8af507.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
+    "static/js/2.da4e4a95.chunk.js": "/static/js/2.da4e4a95.chunk.js",
+    "static/js/2.da4e4a95.chunk.js.map": "/static/js/2.da4e4a95.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ac2ea933.chunk.css.map": "/static/css/main.ac2ea933.chunk.css.map",
+    "static/js/2.da4e4a95.chunk.js.LICENSE.txt": "/static/js/2.da4e4a95.chunk.js.LICENSE.txt",
+    "static/media/blob.19075452.svg": "/static/media/blob.19075452.svg",
+    "static/media/blog-template.6631f007.jpg": "/static/media/blog-template.6631f007.jpg",
+    "static/media/coding.70470b91.svg": "/static/media/coding.70470b91.svg",
+    "static/media/contact.f0b2aac5.jpg": "/static/media/contact.f0b2aac5.jpg",
+    "static/media/gitapp.3774f4c4.png": "/static/media/gitapp.3774f4c4.png",
+    "static/media/ml-front.efb166f2.png": "/static/media/ml-front.efb166f2.png",
+    "static/media/program.ab78e51b.svg": "/static/media/program.ab78e51b.svg",
+    "static/media/sunny.fbca0845.jpg": "/static/media/sunny.fbca0845.jpg",
+    "static/media/tip-app.99d11dcb.jpg": "/static/media/tip-app.99d11dcb.jpg",
+    "static/media/weather.a3b76950.jpg": "/static/media/weather.a3b76950.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ebc510a.js",
+    "static/js/2.da4e4a95.chunk.js",
+    "static/css/main.ac2ea933.chunk.css",
+    "static/js/main.4c8af507.chunk.js"
+  ]
+}
