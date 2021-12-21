@@ -1,30 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.c28e2ff5.chunk.css",
-    "main.js": "/static/js/main.d043dc53.chunk.js",
-    "main.js.map": "/static/js/main.d043dc53.chunk.js.map",
+    "main.css": "/static/css/main.582bdd8b.chunk.css",
+    "main.js": "/static/js/main.d1717381.chunk.js",
+    "main.js.map": "/static/js/main.d1717381.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
     "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
-    "static/js/2.da4e4a95.chunk.js": "/static/js/2.da4e4a95.chunk.js",
-    "static/js/2.da4e4a95.chunk.js.map": "/static/js/2.da4e4a95.chunk.js.map",
+    "static/js/2.362408f9.chunk.js": "/static/js/2.362408f9.chunk.js",
+    "static/js/2.362408f9.chunk.js.map": "/static/js/2.362408f9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.c28e2ff5.chunk.css.map": "/static/css/main.c28e2ff5.chunk.css.map",
-    "static/js/2.da4e4a95.chunk.js.LICENSE.txt": "/static/js/2.da4e4a95.chunk.js.LICENSE.txt",
+    "static/css/main.582bdd8b.chunk.css.map": "/static/css/main.582bdd8b.chunk.css.map",
+    "static/js/2.362408f9.chunk.js.LICENSE.txt": "/static/js/2.362408f9.chunk.js.LICENSE.txt",
     "static/media/blob.19075452.svg": "/static/media/blob.19075452.svg",
     "static/media/blog-template.6631f007.jpg": "/static/media/blog-template.6631f007.jpg",
     "static/media/coding.70470b91.svg": "/static/media/coding.70470b91.svg",
     "static/media/contact.f0b2aac5.jpg": "/static/media/contact.f0b2aac5.jpg",
+    "static/media/daniels.f6d788df.png": "/static/media/daniels.f6d788df.png",
     "static/media/gitapp.3774f4c4.png": "/static/media/gitapp.3774f4c4.png",
+    "static/media/listivo.ffd82c6d.png": "/static/media/listivo.ffd82c6d.png",
     "static/media/ml-front.efb166f2.png": "/static/media/ml-front.efb166f2.png",
+    "static/media/port-ui.194d9e62.png": "/static/media/port-ui.194d9e62.png",
     "static/media/program.ab78e51b.svg": "/static/media/program.ab78e51b.svg",
+    "static/media/project7.5784d0dc.png": "/static/media/project7.5784d0dc.png",
     "static/media/sunny.fbca0845.jpg": "/static/media/sunny.fbca0845.jpg",
     "static/media/tip-app.99d11dcb.jpg": "/static/media/tip-app.99d11dcb.jpg",
     "static/media/weather.a3b76950.jpg": "/static/media/weather.a3b76950.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5ebc510a.js",
-    "static/js/2.da4e4a95.chunk.js",
-    "static/css/main.c28e2ff5.chunk.css",
-    "static/js/main.d043dc53.chunk.js"
+    "static/js/2.362408f9.chunk.js",
+    "static/css/main.582bdd8b.chunk.css",
+    "static/js/main.d1717381.chunk.js"
   ]
 }
