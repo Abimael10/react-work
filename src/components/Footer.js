@@ -34,7 +34,7 @@ export default function Footer() {
 
             <div className="p-8 xl:p-10 bg-gray-800 text-white">
                 <div className="container mx-auto xl:px-48">
-                    <p className="text-center text-base">Website built with <FontAwesomeIcon icon={faHeart} /> by Juan Abimael Santos Castillo.</p>
+                    <p className="text-center text-base">Website built with <FontAwesomeIcon icon={faHeart} /> by Juan Abimael Santos Castillo!</p>
                 </div>
             </div>
         </div>
